@@ -15,6 +15,11 @@ Este repositorio contiene ejemplos prácticos de análisis estadístico utilizan
   - [`randomSampling.m`](TPMS_Brais/MatLabExamples/randomSampling.m): Ejemplo de muestreo aleatorio simple.
   - [`stratifiedSampling.m`](TPMS_Brais/MatLabExamples/stratifiedSampling.m): Ejemplo de muestreo estratificado.
 
+approximationMethod.m: Implementa el método de aproximaciones sucesivas (Herón) para calcular la raíz cuadrada de un número.
+bisectionMethod.m: Método de bisección para encontrar una raíz de la función f(x) = x² - 4 en el intervalo [0, 3].
+newtonRamphson.m: Método de Newton-Raphson para hallar una raíz de la función f(x) = x² - 4, desde un punto inicial.
+secantMethod.m: Método de la secante para encontrar una raíz de la función f(x) = x³ - 6x² + 11x - 6, usando dos puntos iniciales.
+
 ## Uso
 
 1. Abre los scripts `.m` en MATLAB.
